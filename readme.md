@@ -1,5 +1,6 @@
 # ☢️ Vote Burns: "Excellent."
 
+https://andrisgauracs.github.io/mr-burns-joke-website/
 Welcome to the official digital headquarters of the Charles Montgomery Burns presidential campaign.
 
 ## Why Burns?
