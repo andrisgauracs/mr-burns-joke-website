@@ -4,6 +4,9 @@ https://andrisgauracs.github.io/mr-burns-joke-website/
 
 Welcome to the official digital headquarters of the Charles Montgomery Burns presidential campaign.
 
+> **This project is part of the Kimi K2.5 Model Review video:**
+> [https://youtu.be/KvOYDevFGiw](https://youtu.be/KvOYDevFGiw)
+
 ## Why Burns?
 
 - **Experience**: He's older than the concept of democracy.
